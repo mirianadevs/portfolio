@@ -416,6 +416,21 @@ article .icon {
   cursor: default;
 }
 
+#picss {
+ display: flex;
+  justify-content: center;
+ flex-direction: row;
+  height: 250px;
+  gap: 100px;
+ }
+#pics {
+ display: flex;
+  justify-content: center;
+ flex-direction: row;
+  height: 250px;
+  gap: 150px;
+ }
+
 .email-icon {
   height: 2.5rem;
 }
@@ -430,3 +445,4 @@ footer {
 footer p {
   text-align: center;
 }
+
